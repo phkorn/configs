@@ -1,0 +1,3 @@
+return {
+  "luukvbaal/nnn.nvim"
+}
